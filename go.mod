@@ -1,4 +1,4 @@
-module github.com/YourUsername/telegram-auto-delete-bot
+module github.com/tmt-films/autodeletebot
 
 go 1.21
 

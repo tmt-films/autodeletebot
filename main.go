@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/YourUsername/telegram-auto-delete-bot/config"
-	"github.com/YourUsername/telegram-auto-delete-bot/handlers"
+	"github.com/tmt-films/autodeletebot/config"
+	"github.com/tmt-films/autodeletebot/handlers"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

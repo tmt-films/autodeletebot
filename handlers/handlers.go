@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/YourUsername/telegram-auto-delete-bot/config"
-	"github.com/YourUsername/telegram-auto-delete-bot/models"
+	"github.com/tmt-films/autodeletebot/config"
+	"github.com/tmt-films/autodeletebot/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

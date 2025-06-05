@@ -21,7 +21,7 @@ MongoDB URI and database name
 Setup
 
 Clone the Repository:
-git clone https://github.com/YourUsername/telegram-auto-delete-bot.git
+git clone https://github.com/tmt-films/autodeletebot.git
 cd telegram-auto-delete-bot
 
 
